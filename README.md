@@ -29,13 +29,6 @@ I am a passionate security engineer and developer dedicated to building smart sy
 
 ---
 
-## 📈 GitHub Metrics
-
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ## 💬 Let's Connect!
 I am always open to code reviews, security discussions, open-source collaboration, or just chatting about the future of tech.
 
@@ -45,4 +38,5 @@ I am always open to code reviews, security discussions, open-source collaboratio
 * 📧 **Email:** `sysmaint1@proton.me`
 
 "The best way to predict the future is to program it securely." 🚀
+
 
