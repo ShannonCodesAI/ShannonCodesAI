@@ -32,7 +32,7 @@ I am a passionate security engineer and developer dedicated to building smart sy
 ## 💬 Let's Connect!
 I am always open to code reviews, security discussions, open-source collaboration, or just chatting about the future of tech.
 
-* 💼 **LinkedIn:** [://linkedin.com](
+* 💼 **LinkedIn:**
 * https://www.linkedin.com/in/shannon-madden-b82468426/
 * 🌐 **Personal Website:** Coming Soon!
 * 📧 **Email:** `sysmaint1@proton.me`
